@@ -247,4 +247,5 @@ This introduction covered the basics, but there are many more advanced features 
 
 
 ### References 
+- https://www.w3schools.com/typescript/index.php
 -https://cs.lmu.edu/~ray/notes/introtypescript/
